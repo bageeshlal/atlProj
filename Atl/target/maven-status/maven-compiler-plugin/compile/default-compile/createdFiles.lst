@@ -1,0 +1,5 @@
+com\webdriver\pages\Navigation.class
+com\webdriver\pages\UserManagement.class
+com\webdriver\pages\RestrictionsDialog.class
+com\webdriver\pages\BlankPage.class
+com\webdriver\pages\PublishedPage.class

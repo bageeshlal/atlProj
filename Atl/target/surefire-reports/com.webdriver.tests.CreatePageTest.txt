@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.webdriver.tests.CreatePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.524 sec - in com.webdriver.tests.CreatePageTest
